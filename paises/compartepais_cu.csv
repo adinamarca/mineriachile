@@ -1,0 +1,60 @@
+"6.5. Share of World Mineral Production 2019, by Countries; column A Rank in 2019, column B Rank in 2018, column C Country, column D physical unit, column E production in 2019, column F Share of Total in %, column G Cumulative Share in %, column H is HHI: Herfindahl-Hirschman Index as a measure of market concentrations (details see Chapter 4.6)";;;;;;;
+Rank 2019;Rank 2018;Country;unit;Production 2019;Share in %;Share cum.%;Share HHI
+1;(  1);Chile;metr. t;5787400;27,99;27,99;783,69
+2;(  2);Peru;metr. t;2455440;11,88;39,87;141,07
+3;(  3);China;metr. t;1683450;8,14;48,01;66,31
+4;(  4);Congo, D.R.;metr. t;1461124;7,07;55,08;49,95
+5;(  5);United States;metr. t;1260000;6,09;61,18;37,15
+6;(  6);Australia;metr. t;934055;4,52;65,70;20,41
+7;(  7);Russia;metr. t;812400;3,93;69,63;15,44
+8;(  8);Zambia;metr. t;789942;3,82;73,45;14,60
+9;(  9);Mexico;metr. t;713704;3,45;76,90;11,92
+10;(11);Kazakhstan;metr. t;604470;2,92;79,82;8,55
+11;(12);Canada;metr. t;560800;2,71;82,54;7,36
+12;(13);Poland;metr. t;398900;1,93;84,46;3,72
+13;(14);Brazil;metr. t;363268;1,76;86,22;3,09
+14;(10);Indonesia;metr. t;351080;1,70;87,92;2,88
+15;(15);Iran;metr. t;308270;1,49;89,41;2,22
+16;(16);Mongolia;metr. t;292110;1,41;90,82;2,00
+17;(18);Myanmar;metr. t;219200;1,06;91,88;1,12
+18;(17);Spain;metr. t;170700;0,83;92,71;0,68
+19;(**);Panama;metr. t;147480;0,71;93,42;0,51
+20;(20);Uzbekistan;metr. t;147000;0,71;94,13;0,51
+21;(19);Laos;metr. t;140935;0,68;94,82;0,46
+22;(21);Bulgaria;metr. t;114240;0,55;95,37;0,31
+23;(23);Papua New Guinea;metr. t;99432;0,48;95,85;0,23
+24;(22);Sweden;metr. t;99332;0,48;96,33;0,23
+25;(26);Armenia;metr. t;91214;0,44;96,77;0,19
+26;(24);Turkey;metr. t;73300;0,35;97,13;0,13
+27;(25);Philippines;metr. t;71892;0,35;97,47;0,12
+28;(27);Saudi Arabia;metr. t;68580;0,33;97,81;0,11
+29;(29);South Africa;metr. t;52501;0,25;98,06;0,06
+30;(31);Serbia;metr. t;43550;0,21;98,27;0,04
+31;(28);Portugal;metr. t;41553;0,20;98,47;0,04
+32;(30);Finland;metr. t;32861;0,16;98,63;0,03
+33;(33);Morocco;metr. t;30720;0,15;98,78;0,02
+34;(36);Vietnam;metr. t;29620;0,14;98,92;0,02
+35;(35);Mauritania;metr. t;29620;0,14;99,07;0,02
+36;(34);India;metr. t;29550;0,14;99,21;0,02
+37;(37);Congo, Rep.;metr. t;18760;0,09;99,30;0,01
+38;(39);Eritrea;metr. t;16008;0,08;99,38;0,01
+39;(41);Namibia;metr. t;14940;0,07;99,45;0,01
+40;(44);Tanzania;metr. t;14187;0,07;99,52;0,00
+41;(43);Pakistan;metr. t;13049;0,06;99,58;0,00
+42;(32);Ecuador;metr. t;9900;0,05;99,63;0,00
+43;(49);Romania;metr. t;9180;0,04;99,67;0,00
+44;(46);Zimbabwe;metr. t;8731;0,04;99,72;0,00
+45;(47);Kyrgyzstan;metr. t;8640;0,04;99,76;0,00
+46;(50);Tajikistan;metr. t;8500;0,04;99,80;0,00
+47;(45);Colombia;metr. t;7641;0,04;99,83;0,00
+48;(51);North Macedonia;metr. t;7231;0,03;99,87;0,00
+49;(48);Dominican Republic;metr. t;6047;0,03;99,90;0,00
+50;(53);Albania;metr. t;5900;0,03;99,93;0,00
+51;(40);Georgia;metr. t;5500;0,03;99,95;0,00
+52;(52);Bolivia;metr. t;4478;0,02;99,98;0,00
+53;(54);Azerbaijan;metr. t;2213;0,01;99,99;0,00
+54;(42);Korea, North;metr. t;2000;0,01;100,00;0,00
+55;(56);Cyprus;metr. t;703;0,00;100,00;0,00
+56;(57);Germany;metr. t;40;0,00;100,00;0,00
+57;(58);Slovakia;metr. t;17;0,00;100,00;0,00
+;;Total;metr. t;20673358;100,00;;1175
